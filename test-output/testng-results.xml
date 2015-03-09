@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="43" started-at="2015-03-09T13:42:05Z" finished-at="2015-03-09T13:42:06Z">
+  <suite name="Default suite" duration-ms="31760" started-at="2015-03-09T14:32:26Z" finished-at="2015-03-09T14:32:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="43" started-at="2015-03-09T13:42:05Z" finished-at="2015-03-09T13:42:06Z">
-      <class name="staticModifier.TesteDeMyClass">
-        <test-method status="PASS" signature="teste()[pri:0, instance:staticModifier.TesteDeMyClass@4a3e91e7]" name="teste" duration-ms="22" started-at="2015-03-09T10:42:05Z" finished-at="2015-03-09T10:42:06Z">
+    <test name="Default test" duration-ms="31760" started-at="2015-03-09T14:32:26Z" finished-at="2015-03-09T14:32:58Z">
+      <class name="hashCodeAndEquals.ContaTest">
+        <test-method status="PASS" signature="insere_e_remove_contas()[pri:0, instance:hashCodeAndEquals.ContaTest@4b5bc191]" name="insere_e_remove_contas" duration-ms="31736" started-at="2015-03-09T11:32:26Z" finished-at="2015-03-09T11:32:58Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- teste -->
-      </class> <!-- staticModifier.TesteDeMyClass -->
+        </test-method> <!-- insere_e_remove_contas -->
+      </class> <!-- hashCodeAndEquals.ContaTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
