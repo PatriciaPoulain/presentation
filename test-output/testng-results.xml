@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="33" started-at="2015-02-23T13:34:42Z" finished-at="2015-02-23T13:34:42Z">
+  <suite name="Default suite" duration-ms="43" started-at="2015-03-09T13:42:05Z" finished-at="2015-03-09T13:42:06Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="33" started-at="2015-02-23T13:34:42Z" finished-at="2015-02-23T13:34:42Z">
-      <class name="modificadorEstatico.TesteDeMyClass">
-        <test-method status="PASS" signature="teste()[pri:0, instance:modificadorEstatico.TesteDeMyClass@1d2940b3]" name="teste" duration-ms="17" started-at="2015-02-23T10:34:42Z" finished-at="2015-02-23T10:34:42Z">
+    <test name="Default test" duration-ms="43" started-at="2015-03-09T13:42:05Z" finished-at="2015-03-09T13:42:06Z">
+      <class name="staticModifier.TesteDeMyClass">
+        <test-method status="PASS" signature="teste()[pri:0, instance:staticModifier.TesteDeMyClass@4a3e91e7]" name="teste" duration-ms="22" started-at="2015-03-09T10:42:05Z" finished-at="2015-03-09T10:42:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teste -->
-      </class> <!-- modificadorEstatico.TesteDeMyClass -->
+      </class> <!-- staticModifier.TesteDeMyClass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

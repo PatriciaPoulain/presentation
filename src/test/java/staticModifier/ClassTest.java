@@ -4,38 +4,40 @@
  * Propriedade de Objectos Fábrica de Software LTDA.
  * Reprodução parcial ou total proibida.
  */
-package modificadorEstatico;
+package staticModifier;
 
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
 
+import staticModifier.Class;
+
 /**
  * @author patricia.nascimento@objectos.com.br (Patricia Nascimento)
  */
 @Test
-public class TesteDeClasse1 {
+public class ClassTest {
 
   public void teste() {
-    Classe1 c1 = new Classe1();
-    Classe1.incrementaContador();
+    Class c1 = new Class();
+    Class.incrementaContador();
     c1.incrementaOutroContador();
 
-    assertEquals(Classe1.contador, 1);
+    assertEquals(Class.contador, 1);
     assertEquals(c1.outroContador, 1);
 
-    Classe1 c2 = new Classe1();
-    Classe1.incrementaContador();
+    Class c2 = new Class();
+    Class.incrementaContador();
     c2.incrementaOutroContador();
 
-    assertEquals(Classe1.contador, 2);
+    assertEquals(Class.contador, 2);
     assertEquals(c1.outroContador, 1);
 
-    Classe1 c3 = new Classe1();
-    Classe1.incrementaContador();
+    Class c3 = new Class();
+    Class.incrementaContador();
     c3.incrementaOutroContador();
 
-    assertEquals(Classe1.contador, 3);
+    assertEquals(Class.contador, 3);
     assertEquals(c1.outroContador, 1);
   }
 

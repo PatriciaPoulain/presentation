@@ -4,18 +4,18 @@
  * Propriedade de Objectos Fábrica de Software LTDA.
  * Reprodução parcial ou total proibida.
  */
-package modificadorEstatico;
+package staticModifier;
 
 /**
  * @author patricia.nascimento@objectos.com.br (Patricia Nascimento)
  */
-class Classe1 {
+class Class {
 
   public static int contador = 0;
 
   public int outroContador = 0;
 
-  public Classe1() {
+  public Class() {
   }
 
   public static void incrementaContador() {

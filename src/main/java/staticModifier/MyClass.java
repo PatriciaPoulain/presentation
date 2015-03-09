@@ -4,7 +4,7 @@
  * Propriedade de Objectos Fábrica de Software LTDA.
  * Reprodução parcial ou total proibida.
  */
-package modificadorEstatico;
+package staticModifier;
 
 /**
  * @author patricia.nascimento@objectos.com.br (Patricia Nascimento)
