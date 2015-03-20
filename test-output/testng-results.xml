@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31760" started-at="2015-03-09T14:32:26Z" finished-at="2015-03-09T14:32:58Z">
+  <suite name="Default suite" duration-ms="49" started-at="2015-03-09T14:44:22Z" finished-at="2015-03-09T14:44:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31760" started-at="2015-03-09T14:32:26Z" finished-at="2015-03-09T14:32:58Z">
+    <test name="Default test" duration-ms="49" started-at="2015-03-09T14:44:22Z" finished-at="2015-03-09T14:44:22Z">
       <class name="hashCodeAndEquals.ContaTest">
-        <test-method status="PASS" signature="insere_e_remove_contas()[pri:0, instance:hashCodeAndEquals.ContaTest@4b5bc191]" name="insere_e_remove_contas" duration-ms="31736" started-at="2015-03-09T11:32:26Z" finished-at="2015-03-09T11:32:58Z">
+        <test-method status="PASS" signature="insere_e_remove_contas()[pri:0, instance:hashCodeAndEquals.ContaTest@4a3e91e7]" name="insere_e_remove_contas" duration-ms="28" started-at="2015-03-09T11:44:22Z" finished-at="2015-03-09T11:44:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- insere_e_remove_contas -->

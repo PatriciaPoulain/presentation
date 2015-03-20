@@ -1,9 +1,3 @@
-/*
- * MyClass.java criado em 23/02/2015
- * 
- * Propriedade de Objectos Fábrica de Software LTDA.
- * Reprodução parcial ou total proibida.
- */
 package staticModifier;
 
 /**

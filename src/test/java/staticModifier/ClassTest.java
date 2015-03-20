@@ -1,16 +1,8 @@
-/*
- * TesteDeContaConjunta.java criado em 20/02/2015
- * 
- * Propriedade de Objectos Fábrica de Software LTDA.
- * Reprodução parcial ou total proibida.
- */
 package staticModifier;
 
 import static org.testng.Assert.assertEquals;
 
 import org.testng.annotations.Test;
-
-import staticModifier.Class;
 
 /**
  * @author patricia.nascimento@objectos.com.br (Patricia Nascimento)
